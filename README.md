@@ -43,7 +43,7 @@ Saleor Platform is the easiest way to start local development with all the major
 To clone the repository, run the following command
 
 ```
-git clone https://github.com/saleor/saleor-platform.git
+git clone https://github.com/YatinSirohi/SecureDevOps-21391002-.git
 ```
 
 ## How to run it?
@@ -55,7 +55,7 @@ git clone https://github.com/saleor/saleor-platform.git
 
 2. Go to the cloned directory:
 ```shell
-cd saleor-platform
+cd SecureDevOps-21391002-
 ```
 
 3. Build the application:
@@ -81,7 +81,7 @@ docker compose up
 
 ## Where is the application running?
 - Saleor Core (API) - http://localhost:8000
-- Saleor Dashboard - http://localhost:9000
+- Saleor Dashboard - http://localhost:9002
 - Jaeger UI (APM) - http://localhost:16686
 - Mailpit (Test email interface) - http://localhost:8025
 
